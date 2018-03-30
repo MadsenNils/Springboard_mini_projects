@@ -6,14 +6,12 @@ email: nmadsenucsb@gmail.com
 This is a GitHub repository for submitting Springboard projects for review.
 
 ______________________________
-Unit 5.2: JSON exercise
+## Unit 5.2: JSON exercise
 
-
-File:
+### File:
 sliderule_dsi_json_exercise.ipynb
 
-
-Prompt:
+### Prompt:
 \n"""
 Using data in file 'data/world_bank_projects.json' and the techniques demonstrated above,
 
@@ -22,14 +20,14 @@ Using data in file 'data/world_bank_projects.json' and the techniques demonstrat
 3. In 2. above you will notice that some entries have only the code and the name is missing. Create a dataframe with the missing names filled in.
 """
 
-
-Answer variables:
+### Answer variables:
 Task 1: top10_countries
+
 Task 2: top10_themes
+
 Task 3: json_df_filled
 
-
-Overview of approach:
+### Overview of approach:
 
 Data Loading and Cleaning: 
 - Load JSON into normalized pandas df
