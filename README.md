@@ -44,7 +44,7 @@ Task 2:
 
 Task3:
 - create dict-like df that maps theme codes to theme names, by dropping na values and duplicate rows
-- left merge the json_df and the dict_df to fill in missing theme name values
+- left join the json_df and the dict_df to fill in missing theme name values
 
 ______________________________
 
