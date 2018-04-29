@@ -48,5 +48,24 @@ Task3:
 - left join the json_df and the dict_df to fill in missing theme name values
 
 ______________________________
+## Unit 8.2: Exploratory Data Analysis Exercises:
 
+### Body Temperature Exercise:
 
+Notebook: EDA_body_temperature.ipynb
+
+Data: data/human_body_temperature.csv
+
+### Racial Discrimination:
+
+Notebook: EDA_racial_discrimination.ipynb
+
+Data: data/us_job_market_discrimination.dta
+
+### Hospital Readmissions:
+
+Notebook: EDA_hospital_readmissions.ipynb
+
+Data: data/cms_hospital_readmissions.csv
+
+______________________________
