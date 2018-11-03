@@ -3,7 +3,7 @@ ___
 
 ## Part 1 - Exploratory Data Analysis
 
-See ultimate_eda.ipynb
+See code/ultimate_eda.ipynb
 ___
 
 ## Part 2 - Experiment and Metrics Design
