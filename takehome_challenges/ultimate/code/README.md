@@ -18,7 +18,7 @@ Another possibility is the root-mean-square distance of P<sub>G</sub> from 0.5. 
 
 A final metric to consider might be the geometric mean of the proportion of pickups in each city. In this case, the geometric mean will be the square root of P<sub>G</sub>\*(1-P<sub>G</sub>). The geometric mean would heavily punish exclusivity to one city, while punishing smaller deviations from 0.5 to a much lesser extent. This metric therefore has the benefit of more readily responding to a shift of exclusive drivers to non-exclusivity, rather than a shift of drivers who are already relatively close to parity, even closer to parity. The downsides of this metric, however, are that it is more difficult for the layperson to understand, and it is unclear in this case whether extreme deviations of P<sub>G</sub> from 0.5 should be punished so much more than less-extreme deviations.
 
-If I were faced with this project as a data scientist, I would use both absolute distance and geometric mean as metrics in my evaluation of the success of the experiment, as they capture different aspects of the driver response to the toll-reimbursement incentive. However, I would focus mainly on the absolute distance metric when explaining the results of the experiment to lay stakeholders.
+If I were tasked with this project as a data scientist, I would use both absolute distance and geometric mean as metrics in my evaluation of the success of the experiment, as they capture different aspects of the driver response to the toll-reimbursement incentive. However, I would focus mainly on the absolute distance metric when explaining the results of the experiment to lay stakeholders.
 
 **Experiment Design**
 
