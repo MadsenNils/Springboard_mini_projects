@@ -27,3 +27,8 @@ In order to test the efficacy of the toll-reimbursement incentive on encouraging
 **Evaluation**
 
 The change in driving behavior between the experimental and comparison groups would be evaluated using a two-tailed t-test to establish whether the distribution of deviation metric in the experimental group was significantly different from that of the comparison group during the trial period. If the deviation metric was better in the experimental group, I would report that the toll reimbursement was effective in encouraging drivers to serve both cities, but would caution that a cost-benefit analysis is needed to determine whether the effect size seen in the pilot experiment is worth the cost of the reimbursement program. If the deviation metric did not significantly differ between the two groups, I would report that the incentive program was not effective. In the case that the deviation metric was significantly worse in the experimental group, I would report that the incentive program was counterproductive.
+___
+
+## Part 3 - Predictive Modeling
+
+See code/ultimate_predictive_modeling.ipynb
